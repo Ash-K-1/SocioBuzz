@@ -1,0 +1,5 @@
+Model,Accuracy,F1 weighted,Recall weighted
+Logistic Regression,0.3362,0.3355,0.3362
+Random Forest,0.3581,0.3439,0.3581
+XGBoost,0.3334,0.3286,0.3334
+XGBoost Tuned,0.3295,0.319,0.3295
