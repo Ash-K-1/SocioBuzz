@@ -6,11 +6,11 @@
 
 ---
 
-## 🚀 Try It Live
+## Try It Live
 
 **No installation needed** — just open the app in your browser:
 
-👉 **[https://sociobuzz-dashboard-fyp.streamlit.app/](https://sociobuzz-dashboard-fyp.streamlit.app/)**
+**[https://sociobuzz-dashboard-fyp.streamlit.app/](https://sociobuzz-dashboard-fyp.streamlit.app/)**
 
 ---
 
