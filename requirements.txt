@@ -4,6 +4,6 @@ numpy
 plotly
 joblib
 scikit-learn == 1.6.1
-xgboost
+xgboost == 2.0.3
 vaderSentiment
 shap
